@@ -1,7 +1,7 @@
 
 body {
   font-family: 'Lato', sans-serif;
-  background-color: #e8f3e8;
+  background-color: #eeeeee;
   color: #242424;
 }
 
@@ -82,7 +82,7 @@ ul li p{
 
 .footer{
   overflow: hidden;
-  background-color: #b6d8b6;
+  background-color: darkseagreen;
   bottom: 0;
   width: 100%;
 }
